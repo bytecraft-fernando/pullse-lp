@@ -62,14 +62,14 @@ body {
 }
 
 .logo-image {
-    width: 300px;
-    height: 100px;
+    height: 110px;
+    width: auto;
     object-fit: contain;
     transition: transform 0.3s ease;
 }
 
 .logo-image:hover {
-    transform: scale(1.1);
+    transform: scale(1.05);
 }
 
 .logo-icon {
