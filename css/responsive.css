@@ -180,8 +180,8 @@
         gap: 1rem;
     }
 
-    .product-image-placeholder {
-        height: 200px;
+    .product-image {
+        height: 250px;
     }
 
     .story-text {
