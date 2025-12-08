@@ -105,6 +105,14 @@
         display: none;
     }
 
+    /* Mostrar apenas o CTA da hero no mobile */
+    .hero-section .cta-button {
+        display: inline-block;
+        margin-top: 0.75rem;
+        font-size: 1rem;
+        padding: 0.75rem 1.25rem;
+    }
+
     /* Hero Mobile */
     .hero-container {
         padding: 0 1rem;
